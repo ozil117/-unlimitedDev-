@@ -143,7 +143,46 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/5Yh1vnh/redbulllogo.png",REDBULL TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",EEG NETWORK
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co/BrgRSQQ/images-2021-02-13-T173405-074.jpg"group-title="SPORT",WWE NETWORK HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cckmx6f/images-2021-02-13-T172915-205.jpg"group-title="SPORT",RTM SPORT HD
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/v4xpRJk/images-2021-02-13-T172755-322.jpg"group-title="SPORT",UFC HD
+http://spacetv.in/stream/DIPK8H19CP8/279.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/bQp67vQ/images-13.png"group-title="SPORT",ASTRO ARENA HD
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 01 HD
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 02 HD
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 03 HD
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 04 HD
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png"group-title="SPORT",Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png"group-title="SPORT",Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png"group-title="SPORT",Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png"group-title="SPORT",Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png"group-title="SPORT",Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png"group-title="SPORT",Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png"group-title="SPORT",Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"group-title="SPORT",Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png"group-title="SPORT",Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png"group-title="SPORT",Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png"group-title="SPORT",Bein Sports 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 
 
 
@@ -440,6 +479,63 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/j6wS92Y/cebeies.png",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/1mhXkRp/1280px-Logo-of-TV1-Malaysia-svg-1.png",ASTRO TV-1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/bsGk8zc/images-2021-02-13-T165759-139.jpg",ASTRO TV-2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/KrqKCkS/1200px-TV3-Malaysia-svg.png",ASTRO TV-3
+http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/Bq5J9c2/Logo-of-new-NTV7.png",ASTRO NTV-7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/4WnsK0y/value.png",ASTRO TV-8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/0ZF0RNm/images-2021-02-13-T170057-661.jpg",ASTRO TV-9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/L0QJLCn/images-8.png",ASTRO AWANI
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/SRsd4Kk/images-2021-02-13-T170213-029.jpg",ASTRO BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/J39GRnR/images-15.png",ASTRO AEC
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/XbVVsBr/images-17.png",ASTRO AOD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/BsL046n/images-16.png",ASTRO LITTLE SUN
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/ZKCCMb2/images-18.png",ASTRO BINTANG
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/RYqBKr2/images-19.png",iQiYi
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/VJZqdFc/images-9.png",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/p3q3T74/images-11.png",ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/tqMVSR2/images-12.png",ASTRO CITRA
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/Wc7mYqM/images-2021-02-13-T170737-526.jpg",ASTRO BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/9hbMy7z/images-10.png",ASTRO PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/P6L0mSg/images-2021-02-13-T170858-663.jpg",ASTRO NAURA
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/pj1r63Q/images-2021-02-13-T171023-070.jpg",ASTRO Oh!k
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/LQT9GHx/images-2021-02-13-T171317-892.jpg",HBO GO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/gPKtCN0/images-2021-02-13-T172059-126.jpg",HONGKONG CHANEL
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/MVNtjTK/images-2021-02-13-T172207-987.jpg",PEARL CHANEL
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/NSfY5mS/images-2021-02-13-T172254-674.jpg",J2 CHANEL
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/j6tZcTq/images-2021-02-13-T171857-651.jpg",VIU TV
+http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8
+#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/tQJVWfL/images-2021-02-13-T172533-018.jpg",PHONEIX CHANEL
+http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
 
 
 
