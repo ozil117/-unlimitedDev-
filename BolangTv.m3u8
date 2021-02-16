@@ -116,72 +116,72 @@ http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://images.useetv.com/logo_bein1_big1.png",BEIN SPORTS 01
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="http://images.useetv.com/logo_bein1_big1.png",BEIN SPORTS 01
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://images.useetv.com/logo_bein2_big1.png",BEIN SPORTS 02
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="http://images.useetv.com/logo_bein2_big1.png",BEIN SPORTS 02
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports1_big.png",FOX SPORTS ID 01
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports1_big.png",FOX SPORTS ID 01
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports2_big.png",FOX SPORTS ID 02
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports2_big.png",FOX SPORTS ID 02
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports3_big.png",FOX SPORTS ID 03
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="http://images.useetv.com/logo_foxsports3_big.png",FOX SPORTS ID 03
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-ti"SPORT" tvg-logo="http://images.useetv.com/logo_fight_big1.png",FIGHT SPORT
+#EXTINF:-1tvg-ID group-ti"SPORT" tvg-logo="http://images.useetv.com/logo_fight_big1.png",FIGHT SPORT
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.pinimg.com/736x/87/b4/98/87b498f5af1483c727075990fcd7f15b.jpg",EEG NETWORK
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="https://i.pinimg.com/736x/87/b4/98/87b498f5af1483c727075990fcd7f15b.jpg",EEG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/5Yh1vnh/redbulllogo.png",REDBULL TV
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="https://i.ibb.co/5Yh1vnh/redbulllogo.png",REDBULL TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",EEG NETWORK
-#EXTINF: -1 tvg-logo="https://i.ibb.co/BrgRSQQ/images-2021-02-13-T173405-074.jpg"group-title="SPORT",WWE NETWORK HD
+#EXTINF:-1tvg-ID group-title="SPORT" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",EEG NETWORK
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/BrgRSQQ/images-2021-02-13-T173405-074.jpg"group-title="SPORT",WWE NETWORK HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/cckmx6f/images-2021-02-13-T172915-205.jpg"group-title="SPORT",RTM SPORT HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/cckmx6f/images-2021-02-13-T172915-205.jpg"group-title="SPORT",RTM SPORT HD
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/v4xpRJk/images-2021-02-13-T172755-322.jpg"group-title="SPORT",UFC HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/v4xpRJk/images-2021-02-13-T172755-322.jpg"group-title="SPORT",UFC HD
 http://spacetv.in/stream/DIPK8H19CP8/279.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/bQp67vQ/images-13.png"group-title="SPORT",ASTRO ARENA HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/bQp67vQ/images-13.png"group-title="SPORT",ASTRO ARENA HD
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 01 HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 01 HD
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 02 HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 02 HD
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 03 HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 03 HD
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 04 HD
+#EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 04 HD
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 1 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png"group-title="SPORT",Bein Sports 2 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png"group-title="SPORT",Bein Sports 2 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png"group-title="SPORT",Bein Sports 3 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png"group-title="SPORT",Bein Sports 3 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png"group-title="SPORT",Bein Sports 4 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png"group-title="SPORT",Bein Sports 4 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png"group-title="SPORT",Bein Sports 5 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png"group-title="SPORT",Bein Sports 5 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png"group-title="SPORT",Bein Sports 6 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png"group-title="SPORT",Bein Sports 6 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png"group-title="SPORT",Bein Sports 7 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png"group-title="SPORT",Bein Sports 7 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png"group-title="SPORT",Bein Sports 8 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png"group-title="SPORT",Bein Sports 8 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"group-title="SPORT",Bein Sports 9 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"group-title="SPORT",Bein Sports 9 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png"group-title="SPORT",Bein Sports 10 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png"group-title="SPORT",Bein Sports 10 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png"group-title="SPORT",Bein Sports 11 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png"group-title="SPORT",Bein Sports 11 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png"group-title="SPORT",Bein Sports 12 HD
+#EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png"group-title="SPORT",Bein Sports 12 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 
 
