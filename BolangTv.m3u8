@@ -228,6 +228,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png",HBO MALAYSIA
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/745cW78/IMG-20210130-134301.png",ZQ TV
