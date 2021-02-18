@@ -150,11 +150,11 @@ http://spacetv.in/stream/DIPK8H19CP8/279.m3u8
 #EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/bQp67vQ/images-13.png"group-title="SPORT",ASTRO ARENA HD
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 01 HD
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://ott-4k.com:8000/live/salam_000946/ImHfNpi5/75690.ts
 #EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 02 HD
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
 #EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 03 HD
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://ott-4k.com:8000/live/salam_000946/ImHfNpi5/75692.ts
 #EXTINF: -1tvg-ID tvg-logo="https://i.ibb.co/DVfyW91/images-14.png"group-title="SPORT",ASSP 04 HD
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF: -1tvg-ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png"group-title="SPORT",Bein Sports 1 HD
